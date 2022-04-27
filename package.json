@@ -2,7 +2,7 @@
   "name": "ra-5-1-cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/SergeStepanov/ra-5-1-cards/tree/gh-pages",
+  "homepage": "https://sergestepanov.github.io/ra-5-1-cards/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
