@@ -18,9 +18,9 @@ function App() {
         </Card>
 
         <Card>
-          <h5 class='card-title'>Special title treatment</h5>
+          <h5 className='card-title'>Special title treatment</h5>
 
-          <p class='card-text'>
+          <p className='card-text'>
             With supporting text below as a natural lead-in to additional
             content.
           </p>
